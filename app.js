@@ -23,6 +23,9 @@ btn.addEventListener('click', (e) => {
 
             document.querySelector('.speech').innerText = data.translate[0].meanings[0].partOfSpeech;
             document.querySelector('.speech').style.display='block'
+            console.log(data.translate[0].meanings[0].partOfSpeech);
+            console.log(data.translate[0].meanings[0].partOfSpeech);
+
             
             if (data.translate[0].meanings[0].definitions[0].example !== undefined) {
                 document.querySelector('.example').style.display = 'block';
