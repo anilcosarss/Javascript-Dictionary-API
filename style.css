@@ -1,0 +1,40 @@
+body {
+    height: 100vh !important;
+}
+
+input {
+    background-color: transparent;
+    
+    padding:10px 0px !important;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    font-size: 20px !important;
+}
+
+
+
+.example {
+    background-color: rgb(233, 177, 47);
+    padding: 20px 50px;
+    margin-top: 20px;
+    position: relative;
+    border-left: 5px solid black;
+    border-radius: 9px;
+    display: none;
+}
+
+.without-example {
+    display: none;
+}
+
+.speech {
+    display: none;
+}
+.link-dark {
+    display: none;
+}
+.error {
+    display: none;
+}
+
