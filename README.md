@@ -9,5 +9,4 @@
 - The type of the word is also taken as data
 
 
-## To see project <a href="https://raw.githack.com/anilcosarss/Javascript-Dictionary-API/blob/main/index.html">Click Here!</a> 
-
+## To see project <a href="https://raw.githack.com/anilcosarss/Javascript-Dictionary-API/main/index.html">Click Here!</a> 
